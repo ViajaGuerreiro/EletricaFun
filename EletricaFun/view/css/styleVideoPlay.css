@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+* {
+    font-family: 'Nova Square', cursive;
+}
+
+nav {
+    background: #3D3D3D;
+    font-size: 23px;
+}
+
+#nav-bar {
+    color: white;
+}
+
+section {
+    text-align: center;
+    position:relative;
+    width: 100vw;
+    height: 93vh;
+    padding-top: 10vh;
+    background-color: #707172;
+}
+
